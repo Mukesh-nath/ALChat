@@ -49,21 +49,4 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAgiLVhbqEXxlunnbK-5FouH0aXD1ePqkg',
-    appId: '1:1080488029964:android:76ebad3991fdc1cbbb6329',
-    messagingSenderId: '1080488029964',
-    projectId: 'alchat-97104',
-    storageBucket: 'alchat-97104.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC_1opfHAck4b3j1UYJdXuJWGiNWsin4rQ',
-    appId: '1:1080488029964:ios:e91a6287ed3a0dc2bb6329',
-    messagingSenderId: '1080488029964',
-    projectId: 'alchat-97104',
-    storageBucket: 'alchat-97104.appspot.com',
-    iosClientId: '1080488029964-n7q62mvfovguuv0o7hnl7aqbvh5sho3c.apps.googleusercontent.com',
-    iosBundleId: 'com.example.alchat',
-  );
-}
+  
