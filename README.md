@@ -28,6 +28,9 @@ Here are some snapshots of AlChat's sleek and user-friendly interface:
 
 - **Login Screen**
   
+  ![Login Screen](screenshots/login1.jpg)
+- **Register Screen**
+  
   ![Login Screen](screenshots/login.jpg)
 
 - **Chat Interface**
