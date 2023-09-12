@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1080488029964",
+    "project_id": "alchat-97104",
+    "storage_bucket": "alchat-97104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080488029964:android:76ebad3991fdc1cbbb6329",
+        "android_client_info": {
+          "package_name": "com.example.alchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080488029964-gi22in3h569kgmtngp0dv7vdaftlnpl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgiLVhbqEXxlunnbK-5FouH0aXD1ePqkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080488029964-gi22in3h569kgmtngp0dv7vdaftlnpl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080488029964-n7q62mvfovguuv0o7hnl7aqbvh5sho3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
