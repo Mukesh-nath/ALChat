@@ -64,7 +64,7 @@ To start using AlChat on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/alchat.git
+   git clone https://github.com/R0yalPrince/ALChat.git
    ```
 
 2. Navigate to the project directory:
